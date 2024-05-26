@@ -1,0 +1,15 @@
+device_num: 0
+exp_name: slicedit_exp_0
+cfg_enc: 3.5
+cfg_dec: 10
+skip: 8
+qk_inj: 85
+cfg_time: 1
+num_diffusion_steps: 50
+eta: 1
+model_id: stabilityai/stable-diffusion-2-1-base
+alpha: 0.2
+seed: 42
+conv_inj: 0
+negative_time_prompt: jittery
+x_and_y: false

@@ -1,0 +1,6 @@
+-
+    video_name:  parkour
+    source_prompt: a man is jumping
+
+    target_prompts:
+    - a shiny silver robot is jumping 
