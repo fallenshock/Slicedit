@@ -7,7 +7,7 @@
 [Project](https://matankleiner.github.io/slicedit/) | [Arxiv](https://arxiv.org/abs/2405.12211) 
 ### [ICML 2024] Official pytorch implementation of the paper: "Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices"
 
-<video width="300" height="600" src="https://github.com/fallenshock/Slicedit/assets/63591190/cb3ed5c8-72bb-4303-a688-41ea2bc2ab6a"></video>
+https://github.com/fallenshock/Slicedit/assets/63591190/bef5e826-726a-41fe-9160-2e9e27f7423b
 
 ## Installation
 1. Clone the repository
