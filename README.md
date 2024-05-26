@@ -1,12 +1,13 @@
 [![Zero-Shot Video Editing](https://img.shields.io/badge/zero%20shot-video%20editing-Green)](https://github.com/topics/video-editing)
-[![Python](https://img.shields.io/badge/python-3.8+-Blue?python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-38/)
-![PyTorch](https://img.shields.io/badge/torch-2.0.0-Red?PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3.8+-blue?python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-38/)
+![PyTorch](https://img.shields.io/badge/torch-2.0.0-red?PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # Slicedit
 
 [Project](https://matankleiner.github.io/slicedit/) | [Arxiv](https://arxiv.org/abs/2405.12211) 
 ### [ICML 2024] Official pytorch implementation of the paper: "Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices"
 
+<video width="300" height="600" src="https://github.com/fallenshock/Slicedit/assets/63591190/cb3ed5c8-72bb-4303-a688-41ea2bc2ab6a"></video>
 
 ## Installation
 1. Clone the repository
