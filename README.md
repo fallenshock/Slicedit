@@ -35,11 +35,16 @@ This project is licensed under the [MIT License](LICENSE).
 If you use this code for your research, please cite our paper:
 
 ```
-@article{
-	cohen2024slicedit,
-	title={Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices},
-	author={Cohen, Nathaniel and Kulikov, Vladimir and Kleiner, Matan and Huberman-Spiegelglas, Inbar and Michaeli, Tomer},
-	journal={arXiv preprint arXiv:2405.12211},
-	year={2024},
-}
+@InProceedings{pmlr-v235-cohen24a,
+	title = 	 {Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices},
+	author =       {Cohen, Nathaniel and Kulikov, Vladimir and Kleiner, Matan and Huberman-Spiegelglas, Inbar and Michaeli, Tomer},
+	booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+	pages = 	 {9109--9137},
+	year = 	 {2024},
+	editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+	volume = 	 {235},
+	series = 	 {Proceedings of Machine Learning Research},
+	month = 	 {21--27 Jul},
+	publisher =    {PMLR},
+	url = 	 {https://proceedings.mlr.press/v235/cohen24a.html},
 ```
