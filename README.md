@@ -35,7 +35,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you use this code for your research, please cite our paper:
 
 ```
-@InProceedings{cohen24slicedit,
+@InProceedings{cohen2024slicedit,
 	title={Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices},
 	author={Cohen, Nathaniel and Kulikov, Vladimir and Kleiner, Matan and Huberman-Spiegelglas, Inbar and Michaeli, Tomer},
 	booktitle={Proceedings of the 41st International Conference on Machine Learning},
