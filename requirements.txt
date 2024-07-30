@@ -29,7 +29,6 @@ nvidia-nvtx-cu12==12.1.105
 opencv-python==4.9.0.80
 packaging==24.0
 pillow==10.3.0
-pkg_resources==0.0.0
 psutil==5.9.8
 PyYAML==6.0.1
 regex==2024.5.15
