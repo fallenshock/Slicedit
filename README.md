@@ -4,7 +4,7 @@
 
 # Slicedit
 
-[Project](https://matankleiner.github.io/slicedit/) | [Arxiv](https://arxiv.org/abs/2405.12211) 
+[Project](https://matankleiner.github.io/slicedit/) | [Arxiv](https://arxiv.org/abs/2405.12211) | [Proceedings](https://proceedings.mlr.press/v235/cohen24a.html)
 ### [ICML 2024] Official pytorch implementation of the paper: "Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices"
 
 https://github.com/fallenshock/Slicedit/assets/63591190/a92eebce-d276-4bef-a167-3aa272fb58ca
